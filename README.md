@@ -27,7 +27,9 @@ AIFFEL 강남캠퍼스 이웃집 토토치 풀잎스쿨 3조의 활동을 기록
       <td>
         <a href="https://tutorials.pytorch.kr/beginner/basics/tensorqs_tutorial.html">Tensor</a> / <a href="https://tutorials.pytorch.kr/beginner/basics/data_tutorial.html">Dataset & DataLoader<a> / <a href="https://tutorials.pytorch.kr/beginner/basics/transforms_tutorial.html">Transform</a>
       </td>
-      <td></td>
+      <td align="center">
+        <a href="./ex1_make_custom_dataset_and_dataloader.ipynb">Link</a>
+      </td>
     </tr>
     <tr>
       <td align="center">2021. 10. 05</td>
